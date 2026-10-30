@@ -1,1 +1,1 @@
-Training material for short online course Monitoring Climate Change from Space: Discovering and Interpreting Essential Climate Variables with the CCI-Toolbox¶
+This repository contains the training material for teh short upcoming online course: "Monitoring Climate Change from Space: Discovering and Interpreting Essential Climate Variables with the CCI-Toolbox"
